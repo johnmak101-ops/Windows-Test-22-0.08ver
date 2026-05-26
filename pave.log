@@ -370,3 +370,745 @@ PAVE is running at: http://localhost:4098
 Headless mode — browser auto-open disabled.
 Press Ctrl+C to stop the server.
 
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4098 instead
+OpenCode Lite running at http://127.0.0.1:4098
+Port 4096 was occupied, server started on port 4098
+
+==================================================
+PAVE is running at: http://localhost:4098
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4099 instead
+OpenCode Lite running at http://127.0.0.1:4099
+Port 4096 was occupied, server started on port 4099
+
+==================================================
+PAVE is running at: http://localhost:4099
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4100 instead
+OpenCode Lite running at http://127.0.0.1:4100
+Port 4096 was occupied, server started on port 4100
+
+==================================================
+PAVE is running at: http://localhost:4100
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4098 instead
+OpenCode Lite running at http://127.0.0.1:4098
+Port 4096 was occupied, server started on port 4098
+
+==================================================
+PAVE is running at: http://localhost:4098
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4099 instead
+OpenCode Lite running at http://127.0.0.1:4099
+Port 4096 was occupied, server started on port 4099
+
+==================================================
+PAVE is running at: http://localhost:4099
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4098 instead
+OpenCode Lite running at http://127.0.0.1:4098
+Port 4096 was occupied, server started on port 4098
+
+==================================================
+PAVE is running at: http://localhost:4098
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4098 instead
+OpenCode Lite running at http://127.0.0.1:4098
+Port 4096 was occupied, server started on port 4098
+
+==================================================
+PAVE is running at: http://localhost:4098
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4099 instead
+OpenCode Lite running at http://127.0.0.1:4099
+Port 4096 was occupied, server started on port 4099
+
+==================================================
+PAVE is running at: http://localhost:4099
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4098 instead
+OpenCode Lite running at http://127.0.0.1:4098
+Port 4096 was occupied, server started on port 4098
+
+==================================================
+PAVE is running at: http://localhost:4098
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4098 instead
+OpenCode Lite running at http://127.0.0.1:4098
+Port 4096 was occupied, server started on port 4098
+
+==================================================
+PAVE is running at: http://localhost:4098
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4099 instead
+OpenCode Lite running at http://127.0.0.1:4099
+Port 4096 was occupied, server started on port 4099
+
+==================================================
+PAVE is running at: http://localhost:4099
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4098 instead
+OpenCode Lite running at http://127.0.0.1:4098
+Port 4096 was occupied, server started on port 4098
+
+==================================================
+PAVE is running at: http://localhost:4098
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4098 instead
+OpenCode Lite running at http://127.0.0.1:4098
+Port 4096 was occupied, server started on port 4098
+
+==================================================
+PAVE is running at: http://localhost:4098
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4099 instead
+OpenCode Lite running at http://127.0.0.1:4099
+Port 4096 was occupied, server started on port 4099
+
+==================================================
+PAVE is running at: http://localhost:4099
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4098 instead
+OpenCode Lite running at http://127.0.0.1:4098
+Port 4096 was occupied, server started on port 4098
+
+==================================================
+PAVE is running at: http://localhost:4098
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4098 instead
+OpenCode Lite running at http://127.0.0.1:4098
+Port 4096 was occupied, server started on port 4098
+
+==================================================
+PAVE is running at: http://localhost:4098
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4099 instead
+OpenCode Lite running at http://127.0.0.1:4099
+Port 4096 was occupied, server started on port 4099
+
+==================================================
+PAVE is running at: http://localhost:4099
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4098 instead
+OpenCode Lite running at http://127.0.0.1:4098
+Port 4096 was occupied, server started on port 4098
+
+==================================================
+PAVE is running at: http://localhost:4098
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4098 instead
+OpenCode Lite running at http://127.0.0.1:4098
+Port 4096 was occupied, server started on port 4098
+
+==================================================
+PAVE is running at: http://localhost:4098
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4099 instead
+OpenCode Lite running at http://127.0.0.1:4099
+Port 4096 was occupied, server started on port 4099
+
+==================================================
+PAVE is running at: http://localhost:4099
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4100 instead
+OpenCode Lite running at http://127.0.0.1:4100
+Port 4096 was occupied, server started on port 4100
+
+==================================================
+PAVE is running at: http://localhost:4100
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+OpenCode Lite running at http://127.0.0.1:4096
+
+==================================================
+PAVE is running at: http://localhost:4096
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4097 instead
+OpenCode Lite running at http://127.0.0.1:4097
+Port 4096 was occupied, server started on port 4097
+
+==================================================
+PAVE is running at: http://localhost:4097
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
+Warning: GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET not set. OAuth authentication will be disabled.
+Set these environment variables or add them to ~/.pave/tokens.yaml to enable Google SSO.
+[provider] fetch implementation: native (Undici)
+==================================================
+PAVE - Personal AI Virtual Environment
+==================================================
+Mode: Web UI
+Starting server on port 4096 ...
+
+Initializing server components...
+- Initializing storage...
+- Initializing session...
+- Initializing providers...
+Initializing providers...
+  LLM timeout: 600s (default)
+  Rate limit retry: max 5 retries, 5s initial delay
+  Timeout retry: max 2 retries, 5s initial delay
+  GitHub Copilot: deferred (auth on first use)
+  EPM: registered at https://epm.openpave.ai/pave/v1 (token file: C:\Users\ASUS\AppData\Roaming\ai.cnr.pave-studio\epm-token)
+- Starting server...
+⚠️  Requested port 4096 is occupied, using port 4098 instead
+OpenCode Lite running at http://127.0.0.1:4098
+Port 4096 was occupied, server started on port 4098
+
+==================================================
+PAVE is running at: http://localhost:4098
+==================================================
+
+Headless mode — browser auto-open disabled.
+Press Ctrl+C to stop the server.
+
