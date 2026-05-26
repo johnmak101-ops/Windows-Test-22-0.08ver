@@ -1,0 +1,17 @@
+name = "WORKER_NAME_PLACEHOLDER"
+main = "src/worker.ts"
+compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "D1_DB_NAME_PLACEHOLDER"
+database_id = "D1_DB_ID_PLACEHOLDER"
+
+[assets]
+directory = "../frontend/dist"
+binding = "ASSETS"
+
+[[routes]]
+pattern = "DOMAIN_PLACEHOLDER"
+custom_domain = true
