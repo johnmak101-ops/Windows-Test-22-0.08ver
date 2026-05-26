@@ -1,0 +1,24 @@
+# PAVE Default Permissions Configuration
+# Auto-generated with wide-open permissions for interactive mode.
+# Edit this file to restrict sandbox access as needed.
+# This file should have restricted permissions (chmod 600).
+
+version: 4
+savedAt: '2026-05-26T10:37:49.912Z'
+permissions:
+  network:
+    - '*'
+  filesystem:
+    read:
+      - '*'
+    write:
+      - '*'
+    deny: []
+  modules:
+    - '*'
+  system:
+    - '*'
+  skills:
+    allowed:
+      - '*'
+    denied: []
